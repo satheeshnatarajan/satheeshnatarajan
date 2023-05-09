@@ -11,9 +11,6 @@
 [![Linkedin](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/satheesh.natarajan/)
 
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-<br />
-
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
 
 - 🔭 I’m currently working in `IG Group` as `Senior Full Stack Developer`
