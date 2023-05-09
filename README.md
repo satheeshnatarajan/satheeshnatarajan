@@ -40,6 +40,9 @@
 
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+  
+  <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
 
   <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
@@ -47,7 +50,6 @@
 
   <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
 
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg">
@@ -55,6 +57,10 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg">
+  
+  <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg">
 </p>
  
 
