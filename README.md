@@ -1,5 +1,7 @@
 ### Hi there! This is Satheesh 👋
 
+![](https://komarev.com/ghpvc/?username=satheeshnatarajan)
+
 <!--
 **satheeshnatarajan/satheeshnatarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
