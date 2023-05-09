@@ -12,8 +12,9 @@
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+<br />
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
 
 - 🔭 I’m currently working in `IG Group` as `Senior Full Stack Developer`
 
@@ -28,7 +29,35 @@
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech stacks
-<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+
+<p>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg">
+
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg">
+
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+
+  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg">
+</p>
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats
 <p align="center">
@@ -36,8 +65,7 @@
       <img src = "https://github-readme-streak-stats.herokuapp.com?user=satheeshnatarajan&hide_border=false" width = 500 height=200 alt="Satheesh Natarajan Github Streaks">
 </p>
 
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me
 <p>I love connecting with different people, so if you want to say hi, I'd be delighted to meet you!😃</p>
 <p align="center">
       <a href="https://www.linkedin.com/in/satheesh-natarajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
