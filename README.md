@@ -10,7 +10,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satheesh-natarajan/)
 [![Linkedin](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/satheesh.natarajan/)
 
-<br />
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me
 
@@ -26,7 +25,6 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-<br />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech stacks
 
@@ -59,7 +57,6 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg">
 </p>
  
-<br />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats
 <div align="center" style="display: flex; flex-direction: row;">
@@ -67,7 +64,6 @@
       <img src = "https://github-readme-streak-stats.herokuapp.com?user=satheeshnatarajan&hide_border=false" width="48%" height=200 alt="Satheesh Natarajan Github Streaks">
 </div>
 
-<br />
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me
 <p>I love connecting with different people, so if you want to say hi, I'd be delighted to meet you!😃</p>
