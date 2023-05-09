@@ -67,7 +67,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats
 <div align="center" style="display: flex; flex-direction: row;">
-      <img src = "https://github-readme-stats.vercel.app/api?username=satheeshnatarajan&show_icons=true" width="48%" height=200 alt="Satheesh Natarajan Github Stats">
+      <img src = "https://github-readme-stats.vercel.app/api?username=satheeshnatarajan&show_icons=true&theme=auto" width="48%" height=200 alt="Satheesh Natarajan Github Stats">
       <img src = "https://github-readme-streak-stats.herokuapp.com?user=satheeshnatarajan&hide_border=false" width="48%" height=200 alt="Satheesh Natarajan Github Streaks">
 </div>
 
