@@ -60,10 +60,10 @@
 </p>
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats
-<p align="center">
-      <img src = "https://github-readme-stats.vercel.app/api?username=satheeshnatarajan&show_icons=true" width = 500 height=200 alt="Satheesh Natarajan Github Stats">
-      <img src = "https://github-readme-streak-stats.herokuapp.com?user=satheeshnatarajan&hide_border=false" width = 500 height=200 alt="Satheesh Natarajan Github Streaks">
-</p>
+<div style="display: flex; flex-direction: row; align-items: center; text-align: center">
+      <img src = "https://github-readme-stats.vercel.app/api?username=satheeshnatarajan&show_icons=true" height=200 alt="Satheesh Natarajan Github Stats">
+      <img src = "https://github-readme-streak-stats.herokuapp.com?user=satheeshnatarajan&hide_border=false" height=200 alt="Satheesh Natarajan Github Streaks">
+</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me
 <p>I love connecting with different people, so if you want to say hi, I'd be delighted to meet you!😃</p>
