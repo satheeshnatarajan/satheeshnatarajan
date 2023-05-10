@@ -62,6 +62,7 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21">
 </p>
  
 
