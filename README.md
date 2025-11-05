@@ -68,9 +68,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats
 <div align="center" style="display: flex; flex-direction: row;">
-      <img src = "https://github-readme-stats.vercel.app/api?username=satheeshnatarajan&show_icons=true&theme=auto" width="48%" height=200 alt="Satheesh Natarajan Github Stats">
-      <img src = "https://github-readme-streak-stats.herokuapp.com?user=satheeshnatarajan&hide_border=false" width="48%" height=200 alt="Satheesh Natarajan Github Streaks">
+      <img src = "https://github-readme-stats.vercel.app/api?username=satheeshnatarajan&show_icons=true&theme=transparent" width="48%" height=200 alt="Satheesh Natarajan Github Stats">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SatheeshNatarajan&layout=compact&theme=transparent" width="48%" height=200 alt="Top Used Languages">
 </div>
+<!-- <img src = "https://streak-stats.demolab.com/?user=satheeshnatarajan&theme=transparent" width="48%" height=200 alt="Satheesh Natarajan Github Streaks"> -->
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me
