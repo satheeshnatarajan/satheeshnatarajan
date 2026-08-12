@@ -6,7 +6,7 @@
 
 ##
 ![](https://komarev.com/ghpvc/?username=satheeshnatarajan) &emsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://satheeshnatarajan.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://satn.space)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satheesh-natarajan/)
 [![Linkedin](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/satheesh.natarajan/)
 
